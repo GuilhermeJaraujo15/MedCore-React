@@ -12,4 +12,4 @@ Lucide Icons: Biblioteca de ícones profissionais.
 Link do Notion Explicativo: https://feather-whimsey-c34.notion.site/Sistema-clinica-MedCore-74a971f4dd47426f95157e816b4cfe40#35cff24e516780d2999ef8e116be51e1
 
 A implementação dele foi feita por mim no IDE, mas este trabalho foi feito por colegas de sala do
-Curso de Desenvolvimento de Sistemas no Senai, como orientado pelo meu docente na dinâmica de aula invertida.
+Curso de Desenvolvimento de Sistemas no Senai, como orientado pelo docente ministrador do Curso, na dinâmica de aula invertida.

@@ -10,4 +10,4 @@ Tailwind CSS: Framework para estilização moderna e responsiva;
 Lucide Icons: Biblioteca de ícones profissionais.
 
 A implementação dele foi feita por mim no IDE, mas este trabalho foi feito por colegas de sala do
-Curso de Desenvolvimento de Sistemas no Senai.
+Curso de Desenvolvimento de Sistemas no Senai, como orientado pelo meu docente.
